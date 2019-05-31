@@ -1,5 +1,7 @@
-# HateSpeechAnalysis
-Interrupted Time Series analysis to examine the effect of Reddit's banning of r/CoonToown on users who used to participate in the forum. 
+# Hate Speech Analysis
+
+*Interrupted Time Series* analysis to examine the effect of Reddit's banning of r/CoonToown on users who used to participate in the forum.
+
 The data for this analysis is drawn from Chandrasekharan et al 2018, and is based on counts of hate speech on Reddit.
 
 References: 
